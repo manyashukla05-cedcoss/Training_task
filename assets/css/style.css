@@ -1,0 +1,45 @@
+.item
+{
+	border: 2px solid #ccc;
+	background-color: #e5003d;
+	color:white;
+	border-radius: 5px;
+	padding: 30px;
+	margin: 16px 0
+	line-height:2;
+}
+.section
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.picture
+{
+	border-radius:50%;
+	border:2px double white;
+	height:100px;
+	width:100px !important;
+	margin: 0 auto;
+
+}
+.section .owl-dots .owl-dot.active span{
+	background-color: #e5003d;
+}
+.heading h4
+{
+	text-align:center;
+	padding-top:5px;
+}
+.heading p
+{
+	text-align:center;
+	padding-bottom:0px;
+}
+.testimonial_para
+{
+	padding-top: 0px;
+}
+.item
+{
+	text-align:center;
+}
